@@ -1,0 +1,8 @@
+
+Debian 6.x
+    apt-get install libevent-dev
+
+CentOS 5.x/6.x
+    yum install libevent-devel
+
+
